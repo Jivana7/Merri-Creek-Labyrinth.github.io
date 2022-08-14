@@ -328,7 +328,7 @@ hr.rounded {
 
  .center{
   position: absolute;
-  top: 90%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -337,13 +337,13 @@ hr.rounded {
 }
 .center .title{
   color: #fff;
-  font-size: 7vh;
+  font-size: 6vh;
   font-weight: 600;
   text-align: center;
 }
 .center .sub_title{
   color: #fff;
-  font-size: 3px;
+  font-size: 3vh;
   font-weight: 600;
   text-align: center;
 }
