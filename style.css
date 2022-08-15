@@ -409,7 +409,7 @@ textarea {
 }
 
 [type="submit"] {
-  font-family: 'ltc-bodoni-175,Libre Bodoni serif;
+  font-family: 'ltc-bodoni-175,Libre Bodoni serif, sans-serif;
   width: 100%;
   background:rgb(98, 136, 98);
   border-radius:9px;
