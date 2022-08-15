@@ -429,7 +429,7 @@ textarea {
 
 body {
   margin: 0;
-  font-family:'ltc-bodoni-175,Libre Bodoni serif' ;
+  font-family:'ltc-bodoni-175,Libre Bodoni serif';
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
