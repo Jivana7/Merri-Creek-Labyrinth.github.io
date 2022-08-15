@@ -137,7 +137,7 @@ transition: all 0.3s ease;
   .navbar__menu {
       display: grid;
       grid-template-columns: auto;
-      margin: 0;
+      margin-left: -20px;
       width: 100%;
       position: absolute;
       top: -1000px;
