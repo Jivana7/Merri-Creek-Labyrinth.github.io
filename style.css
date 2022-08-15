@@ -427,6 +427,20 @@ textarea {
 
 /*projects*/
 
+body {
+  margin: 0;
+  font-family:'ltc-bodoni-175,Libre Bodoni serif' ;
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: black;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
 .projects-section {
   padding: 10rem 0;
 }
