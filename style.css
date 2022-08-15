@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'ltc-bodoni-175';
+  font-family: 'ltc-bodoni-175, Libre Bodoni', serif;
 }
 ::selection{
   color: #000;
